@@ -3,8 +3,8 @@
 A full-stack application to track daily expenses, featuring user authentication and data visualization.
 
 ##  Contributors
-- **Ketki Gurav** (Lead Developer)
-- **Anuja** & **Vaishnavi** (Collaborators)
+- **Ketki Gurav**
+- **Anuja** & **Vaishnavi** 
 
 ## Tech Stack
 - **Frontend:** React.js, Vite
